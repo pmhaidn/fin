@@ -107,8 +107,8 @@ st.sidebar.header("Cấu hình")
 
 # Danh sách các cặp giao dịch phổ biến
 trading_pairs = [
-    "BTC-USDT", "ETH-USDT", "BNB-USDT", "XRP-USDT", "SOL-USDT",
-    "ADA-USDT", "AVAX-USDT", "MATIC-USDT", "LINK-USDT", "DOT-USDT", "PI-USDT"
+    "PI-USDT", "BTC-USDT", "ETH-USDT", "BNB-USDT", "XRP-USDT", "SOL-USDT",
+    "ADA-USDT", "AVAX-USDT", "MATIC-USDT", "LINK-USDT", "DOT-USDT"
 ]
 
 # Widget chọn cặp giao dịch
